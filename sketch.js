@@ -9,7 +9,7 @@ var maxSnow = 40;
 
 function preload(){
   bg = loadImage("snow2.jpg");
-  gimg = loadImage("ground.png");
+  gimg = loadImage("ground.PNG");
 
   //sc stands for santa claus
   runnerImg = loadAnimation("sc/sc1.png","sc/sc2.png","sc/sc3.png","sc/sc4.png","sc/sc5.png","sc/sc6.png","sc/sc7.png","sc/sc8.png","sc/sc9.png","sc/sc10.png","sc/sc11.png","sc/sc12.png")
