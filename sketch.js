@@ -12,7 +12,7 @@ function preload(){
   gimg = loadImage("ground.png");
 
   //sc stands for santa claus
-  runnerImg = loadAnimation("sc/sc1.PNG","sc/sc2.PNG","sc/sc3.PNG","sc/sc4.PNG","sc/sc5.PNG","sc/sc6.PNG","sc/sc7.PNG","sc/sc8.PNG","sc/sc9.PNG","sc/sc10.PNG","sc/sc11.PNG","sc/sc12.PNG")
+  runnerImg = loadAnimation("sc/sc1.png","sc/sc2.png","sc/sc3.png","sc/sc4.png","sc/sc5.png","sc/sc6.png","sc/sc7.png","sc/sc8.png","sc/sc9.png","sc/sc10.png","sc/sc11.png","sc/sc12.png")
   
 }
 
